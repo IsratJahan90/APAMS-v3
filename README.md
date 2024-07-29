@@ -10,7 +10,6 @@
 ![1117](https://github.com/IsratJahan90/APAMS-v3/assets/169969222/5865d1f9-9528-4464-b49b-2ff22c524985)
 ![1118](https://github.com/IsratJahan90/APAMS-v3/assets/169969222/b483951d-2de1-4d73-816e-e5fe66625871)
 ![1119](https://github.com/IsratJahan90/APAMS-v3/assets/169969222/3a17417d-1527-430f-b40d-9a4125874266)
-
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=IsratJahan90.IsratJahan90&left_color=royalblue&right_color=black"/>
 <h1 align="center">Hi, This is Israt </h1>
 <h3 align="center">Aspiring Software Quality Assurance Engineer from Bangladesh </h3>
@@ -23,7 +22,7 @@
 
 
 ## 💻 At a glance my specialities:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 <div align="left">
  <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /></code>
   <img width="12" />
@@ -43,7 +42,7 @@
 
 
 ## ⚡ Skills:
-Test planning / Test case documentation / Test metrics / Bug reporting / API testing with Postman & Newman / Load testing with Jmeter / Mind Map with XMind / Agile & Jira /  Web Automation testing / Mobile aplication testing / Cucumber / Selenium / Cypress / Appium / Javascript /  HTML / CSS / C / JAVA / Python / QA & QC / SDLC & STLC
+Test planning / Test case documentation / Test metrics / Bug reporting / API testing with Postman & Newman / Load testing with Jmeter / Mind Map with XMind / Agile & Jira /  Web Automation testing / Mobile aplication testing / Cucumber / Selenium / Cypress / Appium / Javascript /  HTML / CSS / JAVA / QA & QC / SDLC & STLC
 <img align="right" src="https://octodex.github.com/images/welcometocat.png" width="300">
 ## My stack:
 - 2+ years of experience in Test planning, Test case writing, reviewing, analyzing 
@@ -75,4 +74,3 @@ Test planning / Test case documentation / Test metrics / Bug reporting / API tes
 
 ##
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
-
